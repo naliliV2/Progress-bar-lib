@@ -1,4 +1,3 @@
-import time 
 import os
 
 def progress_bar(iteration, total, prefix="", suffix ="", decimal = 1, lenght = 100, fill='█', unfill='-'):
